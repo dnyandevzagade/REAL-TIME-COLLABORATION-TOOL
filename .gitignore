@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+# Environment variables
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Editor files
+.DS_Store
+.idea/
+=======
+# Environment variables
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Editor files
+.DS_Store
+.idea/
+>>>>>>> 823ca3846edc87e1f5e7ad4f4455becc63ed0595
+.vscode/
