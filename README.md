@@ -28,6 +28,15 @@ A lightweight, web-based **Real-Time Collaboration Tool** that allows multiple u
 
 ---
 
+
+## 📚 Internship Details
+
+This project was developed as part of the **Task 3** during my internship at **CODTECH**.  
+Intern Name: **Dnyandev Rama Zagade**  
+Internship Duration: *Summer Internship 2025*  
+Project Title: *Real-Time Collaborative Editor Tool*
+
+
 ## 📦 How to Run Locally
 
 ### 🔧 1. Clone the Repository
@@ -61,3 +70,7 @@ node server.js
 --------
 Go to your browser and visit:
 http://localhost:3000
+
+
+
+
