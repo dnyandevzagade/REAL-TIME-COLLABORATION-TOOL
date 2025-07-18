@@ -27,6 +27,10 @@ A lightweight, web-based **Real-Time Collaboration Tool** that allows multiple u
 | Quill.js      | Express.js  |                | Mongoose ODM |
 
 ---
+SCREENSHOTS - 
+
+<img width="1479" height="757" alt="Screenshot 2025-07-18 171906" src="https://github.com/user-attachments/assets/5ce0fb2a-9bdf-4c73-be95-cef6db4e6f68" />
+<img width="1916" height="1199" alt="Screenshot 2025-07-18 171924" src="https://github.com/user-attachments/assets/da401920-dce9-492c-a2ef-32b40b36390d" />
 
 
 ## 📚 Internship Details
